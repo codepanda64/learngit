@@ -2,3 +2,4 @@ test content
 ttttt Git is free software
 changed branch
 add dev branch
+bug branch
